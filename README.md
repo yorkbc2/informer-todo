@@ -1,2 +1,3 @@
-# informer-todo
-Things that we will do in future
+# Список ідей на майбутнє
+
+- ~~Презентувати проект на хакатоні~~
